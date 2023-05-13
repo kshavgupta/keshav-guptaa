@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keshav Gupta</h1>
-<h3 align="center">A second year undergrad student from IIIT Allahabad. Web3 enthusiast and exploring front-end development.</h3>
+<h3 align="center">A second year undergrad student from IIIT Allahabad.</h3>
 
 - 🌱 I’m currently learning **Solidity and React**
 
