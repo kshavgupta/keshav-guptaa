@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keshav Gupta</h1>
 <h3 align="center">A second year undergrad student from IIIT Allahabad.</h3>
 
-- 🌱 I’m currently learning **Solidity and React**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **keshavgupta28@outlook.com**
 
